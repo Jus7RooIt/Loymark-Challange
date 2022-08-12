@@ -2098,11 +2098,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RO-RO\\source\\repos\\Challange Loymark\\LoymarkChallange\\LoymarkAPI\\LoymarkAPI\\LoymarkAPI.csproj",
+      "projectUniqueName": "C:\\Users\\RO-RO\\source\\repos\\git v3\\Loymark-Challange\\LoymarkAPI\\LoymarkAPI\\LoymarkAPI.csproj",
       "projectName": "LoymarkAPI",
-      "projectPath": "C:\\Users\\RO-RO\\source\\repos\\Challange Loymark\\LoymarkChallange\\LoymarkAPI\\LoymarkAPI\\LoymarkAPI.csproj",
+      "projectPath": "C:\\Users\\RO-RO\\source\\repos\\git v3\\Loymark-Challange\\LoymarkAPI\\LoymarkAPI\\LoymarkAPI.csproj",
       "packagesPath": "C:\\Users\\RO-RO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RO-RO\\source\\repos\\Challange Loymark\\LoymarkChallange\\LoymarkAPI\\LoymarkAPI\\obj\\",
+      "outputPath": "C:\\Users\\RO-RO\\source\\repos\\git v3\\Loymark-Challange\\LoymarkAPI\\LoymarkAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

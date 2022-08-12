@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QZ0LY4lDlwp1GStdWz/lh63H4pm4uxU7fUpwf7nDVRi94sP56/5sZn1CfTTvJjMWhoFkT1q0L5MsId9WOEnsfg==",
+  "dgSpecHash": "jxEQlVHrKUEdH5cqEgjsEe48JYg5vXcpQ/z8vR1RfsqHcLMUmt8epHb8gHfqn+ObbMdTaS6ZdPOzPEtTEu8QNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RO-RO\\source\\repos\\Challange Loymark\\LoymarkChallange\\LoymarkAPI\\LoymarkAPI\\LoymarkAPI.csproj",
+  "projectFilePath": "C:\\Users\\RO-RO\\source\\repos\\git v3\\Loymark-Challange\\LoymarkAPI\\LoymarkAPI\\LoymarkAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RO-RO\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\RO-RO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
