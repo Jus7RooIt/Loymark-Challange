@@ -1,0 +1,29 @@
+h1{
+  text-align: center!important;
+  text-transform: uppercase;
+  font-size: xx-large;
+  padding: 0.7em 0 0.4em 0;
+  font-weight: 600;
+}
+
+table{
+  text-align: center;
+  width: 100%;
+}
+th{
+  text-align: center !important;
+}
+.badge-success{
+  background-color: green!important;
+}
+.badge-warning{
+  background-color: orange!important;
+}
+.badge-danger{
+  background-color: red!important;
+}
+.badge-primary{
+  background-color: blue!important;
+}.badge-secondary{
+  background-color: indigo!important;
+}

@@ -1,0 +1,27 @@
+h1{
+  text-align: center!important;
+  text-transform: uppercase;
+  font-size: xx-large;
+  padding: 0.7em 0 0.4em 0;
+  font-weight: 600;
+}
+
+
+table {
+  width: 100%;
+}
+th{
+  font-weight: bolder;
+  size: 30;
+}
+
+.mat-column-isNewsletterConfirmed{
+  text-align: center !important;
+  flex: 0 0 10% !important;
+  width: 10% !important;
+}
+.mat-column-actions{
+  text-align: center !important;
+  flex: 0 0 20% !important;
+  width: 20% !important;
+}

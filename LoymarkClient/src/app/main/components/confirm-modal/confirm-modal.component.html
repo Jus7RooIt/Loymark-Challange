@@ -1,0 +1,11 @@
+<figure style="text-align: center;" class="justify-content-center">
+  <mat-icon color="warn" class="icon-warning">warning</mat-icon>
+</figure>
+<h3 mat-dialog-title class="modal-stock__title" style="text-align:center ;"><strong>Advertencia</strong></h3>
+<div mat-dialog-content style="margin-top: 1rem ;" class="modal-stock__title">
+  <p style="text-align: center;">¿Seguro que quiere eliminar <strong>{{data.name}}</strong>?</p>
+</div>
+<div mat-dialog-actions class="d-flex justify-content-between">
+  <button mat-raised-button (click)="Cancel()">Cancelar</button>
+  <button mat-raised-button [mat-dialog-close]=true cdkFocusInitial (click)="Confirm()">Eliminar</button>
+</div>
